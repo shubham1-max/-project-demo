@@ -1,4 +1,4 @@
-# -project-demo
+# -ct-demo
 this is my first git repository.
 <br>
-author- shubham patil
+author- shubham s patil.
